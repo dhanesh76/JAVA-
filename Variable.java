@@ -1,6 +1,6 @@
 //Variable is a container which behave as a value that it contains 
 
-public class Main {
+public class Variable {
     public static void main(String[] args) {
         // Primitive data types
         int age = 30;
