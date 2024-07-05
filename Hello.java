@@ -25,7 +25,7 @@
 // Class Declaration:
 // The class name must match the filename.
 // Java is case-sensitive, so 'hello' is not the same as 'Hello' or 'HELLO'.
-class hello {         
+class Hello {         
 
     // Main Method:
     // The main method is where the program starts execution.
